@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939548000024",
+    "project_id": "veterinarian-95d68",
+    "storage_bucket": "veterinarian-95d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939548000024:android:2d6a27bd41b9f7b864286d",
+        "android_client_info": {
+          "package_name": "abdelrahman1917.paw_in_out"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfA0iVHaO_QHYTDerSKYD9lz1AdlBjZAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
